@@ -11,6 +11,13 @@ Well now it can.
 
 And it will.
 
+Installation
+============
+
+::
+
+    pip install say_it_to_my_face
+
 Usage
 =====
 
